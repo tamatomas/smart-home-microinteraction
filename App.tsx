@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import { StyleSheet, Text, View } from "react-native";
-import { Card, Switch } from "./src";
+import React from "react";
+import { StyleSheet, View } from "react-native";
+import { Card } from "./src";
 import MaterialIcons from "react-native-vector-icons/MaterialIcons";
 import Ionicons from "react-native-vector-icons/Ionicons";
 import MaterialCommunityIcons from "react-native-vector-icons/MaterialCommunityIcons";
